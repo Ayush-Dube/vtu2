@@ -1,0 +1,604 @@
+{
+    "resultInfo": [
+        {
+            "_id": 1,
+            "studentId": "1CB22CS101",
+            "code": "BCS301",
+            "subject": "Operating Systems",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "78",
+            "result": "PASS"
+        },
+        {
+            "_id": 2,
+            "studentId": "1CB22CS101",
+            "code": "BCS302",
+            "subject": "Object Oriented Programming with Java",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "81",
+            "result": "PASS"
+        },
+        {
+            "_id": 3,
+            "studentId": "1CB22CS101",
+            "code": "BCS303",
+            "subject": "R Programming",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "79",
+            "result": "PASS"
+        },
+        {
+            "_id": 4,
+            "studentId": "1CB22CS101",
+            "code": "BCS304",
+            "subject": "Computer Networks",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "68",
+            "result": "PASS"
+        },
+        {
+            "_id": 5,
+            "studentId": "1CB22CS101",
+            "code": "BCS305",
+            "subject": "Database Management System",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "88",
+            "result": "PASS"
+        },
+        {
+            "_id": 6,
+            "studentId": "1DB22CS102",
+            "code": "BCS301",
+            "subject": "Operating Systems",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "63",
+            "result": "PASS"
+        },
+        {
+            "_id": 7,
+            "studentId": "1DB22CS102",
+            "code": "BCS302",
+            "subject": "Object Oriented Programming with Java",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "67",
+            "result": "PASS"
+        },
+        {
+            "_id": 8,
+            "studentId": "1DB22CS102",
+            "code": "BCS303",
+            "subject": "R Programming",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "51",
+            "result": "PASS"
+        },
+        {
+            "_id": 9,
+            "studentId": "1DB22CS102",
+            "code": "BCS304",
+            "subject": "Computer Networks",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "59",
+            "result": "PASS"
+        },
+        {
+            "_id": 10,
+            "studentId": "1DB22CS102",
+            "code": "BCS305",
+            "subject": "Database Management System",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "59",
+            "result": "PASS"
+        },
+        {
+            "_id": 11,
+            "studentId": "1PU22CS103",
+            "code": "BCS301",
+            "subject": "Operating Systems",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "34",
+            "result": "FAIL"
+        },
+        {
+            "_id": 12,
+            "studentId": "1PU22CS103",
+            "code": "BCS302",
+            "subject": "Object Oriented Programming with Java",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "76",
+            "result": "PASS"
+        },
+        {
+            "_id": 13,
+            "studentId": "1PU22CS103",
+            "code": "BCS303",
+            "subject": "R Programming",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "81",
+            "result": "PASS"
+        },
+        {
+            "_id": 14,
+            "studentId": "1PU22CS103",
+            "code": "BCS304",
+            "subject": "Computer Networks",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "79",
+            "result": "PASS"
+        },
+        {
+            "_id": 15,
+            "studentId": "1PU22CS103",
+            "code": "BCS305",
+            "subject": "Database Management System",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "83",
+            "result": "PASS"
+        },
+        {
+            "_id": 16,
+            "studentId": "1RV22EC101",
+            "code": "21EC33",
+            "subject": "Basic Signal Processing",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "54",
+            "result": "PASS"
+        },
+        {
+            "_id": 17,
+            "studentId": "1RV22EC101",
+            "code": "21EC34",
+            "subject": "Circuits & Controls",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "45",
+            "result": "PASS"
+        },
+        {
+            "_id": 18,
+            "studentId": "1RV22EC101",
+            "code": "21EC35",
+            "subject": "Communication Theory",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "39",
+            "result": "PASS"
+        },
+        {
+            "_id": 19,
+            "studentId": "1RV22EC101",
+            "code": "21EC36",
+            "subject": "Electromagnetic Waves",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "59",
+            "result": "PASS"
+        },
+        {
+            "_id": 20,
+            "studentId": "1RV22EC101",
+            "code": "21EC37",
+            "subject": "Power Electronics",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "68",
+            "result": "PASS"
+        },
+        {
+            "_id": 21,
+            "studentId": "1AT22EC102",
+            "code": "21EC33",
+            "subject": "Basic Signal Processing",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "82",
+            "result": "PASS"
+        },
+        {
+            "_id": 22,
+            "studentId": "1AT22EC102",
+            "code": "21EC34",
+            "subject": "Circuits & Controls",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "49",
+            "result": "PASS"
+        },
+        {
+            "_id": 23,
+            "studentId": "1AT22EC102",
+            "code": "21EC35",
+            "subject": "Communication Theory",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "91",
+            "result": "PASS"
+        },
+        {
+            "_id": 24,
+            "studentId": "1AT22EC102",
+            "code": "21EC36",
+            "subject": "Electromagnetic Waves",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "61",
+            "result": "PASS"
+        },
+        {
+            "_id": 25,
+            "studentId": "1AT22EC102",
+            "code": "21EC37",
+            "subject": "Power Electronics",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "77",
+            "result": "PASS"
+        },
+        {
+            "_id": 26,
+            "studentId": "1NH22EC103",
+            "code": "21EC33",
+            "subject": "Basic Signal Processing",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "34",
+            "result": "FAIL"
+        },
+        {
+            "_id": 27,
+            "studentId": "1NH22EC103",
+            "code": "21EC34",
+            "subject": "Circuits & Controls",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "28",
+            "result": "FAIL"
+        },
+        {
+            "_id": 28,
+            "studentId": "1NH22EC103",
+            "code": "21EC35",
+            "subject": "Communication Theory",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "41",
+            "result": "PASS"
+        },
+        {
+            "_id": 29,
+            "studentId": "1NH22EC103",
+            "code": "21EC36",
+            "subject": "Electromagnetic Waves",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "53",
+            "result": "PASS"
+        },
+        {
+            "_id": 30,
+            "studentId": "1NH22EC103",
+            "code": "21EC37",
+            "subject": "Power Electronics",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "35",
+            "result": "PASS"
+        },
+        {
+            "_id": 31,
+            "studentId": "1RV22ME101",
+            "code": "21ME61",
+            "subject": "Thermodynamics",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "75",
+            "result": "PASS"
+        },
+        {
+            "_id": 32,
+            "studentId": "1RV22ME101",
+            "code": "21ME62",
+            "subject": "Turbo Machines",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "88",
+            "result": "PASS"
+        },
+        {
+            "_id": 33,
+            "studentId": "1RV22ME101",
+            "code": "21ME63",
+            "subject": "Fluid Mechanics",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "38",
+            "result": "PASS"
+        },
+        {
+            "_id": 34,
+            "studentId": "1RV22ME101",
+            "code": "21ME64",
+            "subject": "Material Science",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "86",
+            "result": "PASS"
+        },
+        {
+            "_id": 35,
+            "studentId": "1RV22ME101",
+            "code": "21ME65",
+            "subject": "Design lab",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "68",
+            "result": "PASS"
+        },
+        {
+            "_id": 36,
+            "studentId": "1DB22ME102",
+            "code": "21ME61",
+            "subject": "Thermodynamics",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "59",
+            "result": "PASS"
+        },
+        {
+            "_id": 37,
+            "studentId": "1DB22ME102",
+            "code": "21ME62",
+            "subject": "Turbo Machines",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "63",
+            "result": "PASS"
+        },
+        {
+            "_id": 38,
+            "studentId": "1DB22ME102",
+            "code": "21ME63",
+            "subject": "Fluid Mechanics",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "48",
+            "result": "PASS"
+        },
+        {
+            "_id": 39,
+            "studentId": "1DB22ME102",
+            "code": "21ME64",
+            "subject": "Material Science",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "55",
+            "result": "PASS"
+        },
+        {
+            "_id": 40,
+            "studentId": "1DB22ME102",
+            "code": "21ME65",
+            "subject": "Design lab",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "39",
+            "result": "PASS"
+        },
+        {
+            "_id": 41,
+            "studentId": "1PU22ME103",
+            "code": "21ME61",
+            "subject": "Thermodynamics",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "52",
+            "result": "PASS"
+        },
+        {
+            "_id": 42,
+            "studentId": "1PU22ME103",
+            "code": "21ME62",
+            "subject": "Turbo Machines",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "28",
+            "result": "FAIL"
+        },
+        {
+            "_id": 43,
+            "studentId": "1PU22ME103",
+            "code": "21ME63",
+            "subject": "Fluid Mechanics",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "33",
+            "result": "FAIL"
+        },
+        {
+            "_id": 44,
+            "studentId": "1PU22ME103",
+            "code": "21ME64",
+            "subject": "Material Science",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "19",
+            "result": "FAIL"
+        },
+        {
+            "_id": 45,
+            "studentId": "1PU22ME103",
+            "code": "21ME65",
+            "subject": "Design lab",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "36",
+            "result": "PASS"
+        },
+        {
+            "_id": 46,
+            "studentId": "1PU22CV101",
+            "code": "21CV72",
+            "subject": "Basic Surveying",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "86",
+            "result": "PASS"
+        },
+        {
+            "_id": 47,
+            "studentId": "1PU22CV101",
+            "code": "21CV73",
+            "subject": "Masonry Structures",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "89",
+            "result": "PASS"
+        },
+        {
+            "_id": 48,
+            "studentId": "1PU22CV101",
+            "code": "21CV74",
+            "subject": "Traffic Engineering",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "76",
+            "result": "PASS"
+        },
+        {
+            "_id": 49,
+            "studentId": "1PU22CV101",
+            "code": "21CV75",
+            "subject": "Concrete Technology",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "87",
+            "result": "PASS"
+        },
+        {
+            "_id": 50,
+            "studentId": "1PU22CV101",
+            "code": "21CV76",
+            "subject": "Strength of Materials",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "84",
+            "result": "PASS"
+        },
+        {
+            "_id": 51,
+            "studentId": "1RV22CV102",
+            "code": "21CV72",
+            "subject": "Basic Surveying",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "56",
+            "result": "PASS"
+        },
+        {
+            "_id": 52,
+            "studentId": "1RV22CV102",
+            "code": "21CV73",
+            "subject": "Masonry Structures",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "89",
+            "result": "PASS"
+        },
+        {
+            "_id": 53,
+            "studentId": "1RV22CV102",
+            "code": "21CV74",
+            "subject": "Traffic Engineering",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "49",
+            "result": "PASS"
+        },
+        {
+            "_id": 54,
+            "studentId": "1RV22CV102",
+            "code": "21CV75",
+            "subject": "Concrete Technology",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "81",
+            "result": "PASS"
+        },
+        {
+            "_id": 55,
+            "studentId": "1RV22CV102",
+            "code": "21CV76",
+            "subject": "Strength of Materials",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "79",
+            "result": "PASS"
+        },
+        {
+            "_id": 56,
+            "studentId": "1DB22CV103",
+            "code": "21CV72",
+            "subject": "Basic Surveying",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "21",
+            "result": "FAIL"
+        },
+        {
+            "_id": 57,
+            "studentId": "1DB22CV103",
+            "code": "21CV73",
+            "subject": "Masonry Structures",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "36",
+            "result": "PASS"
+        },
+        {
+            "_id": 58,
+            "studentId": "1DB22CV103",
+            "code": "21CV74",
+            "subject": "Traffic Engineering",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "54",
+            "result": "PASS"
+        },
+        {
+            "_id": 59,
+            "studentId": "1DB22CV103",
+            "code": "21CV75",
+            "subject": "Concrete Technology",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "48",
+            "result": "PASS"
+        },
+        {
+            "_id": 60,
+            "studentId": "1DB22CV103",
+            "code": "21CV76",
+            "subject": "Strength of Materials",
+            "max_marks": "100",
+            "min_marks": "35",
+            "obtained_marks": "28",
+            "result": "FAIL"
+        }
+    ]
+}

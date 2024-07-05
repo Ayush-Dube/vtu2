@@ -1,25 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import Footer from "./componenets/Footer";
+import Header from "./componenets/Header";
+import { Container } from "react-bootstrap";
+import Homescreen from "./componenets/Homescreen";
+import Aboutus from "./componenets/Aboutus";
+
+import Tester from "./componenets/Tester";
+import { Outlet } from "react-router-dom";
+import ResultLoginPage from "./componenets/ResultLoginPage";
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <div className="bigDivision"> 
+      {/* so the above div will be default on every Screen */}
+        <main>
+          <Outlet />                 
+        </main>
+      </div>
+    </>
   );
 }
 
 export default App;
+  

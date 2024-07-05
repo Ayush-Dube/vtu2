@@ -1,0 +1,100 @@
+{
+    "studentinfo": [
+        {
+            "_id": 1,
+            "registerId":"1CB22CS101",
+            "studentName":"Anamika",
+            "fatherName":"DK Singh",
+            "collegeName":"Cambridge Institute of Technolgy"
+
+        },
+        {
+            "_id": 2,
+            "registerId":"1DB22CS102",
+            "studentName":"Manoj",
+            "fatherName":"Krishna Kumar",
+            "collegeName":"Don Bosco Institute of Technolgy"
+
+        },
+        {
+            "_id": 3,
+            "registerId":"1PU22CS103",
+            "studentName":"Akshay ",
+            "fatherName":"Bhanu Pratap",
+            "collegeName":"Presidency University"
+            
+        },
+        {
+            "_id": 4,
+            "registerId":"1RV22EC101",
+            "studentName":"Deepika",
+            "fatherName":"Raj Kumar",
+            "collegeName":"RV college of Engineering"
+            
+        },
+        {
+            "_id": 5,
+            "registerId":"1AT22EC102",
+            "studentName":"Abhay",
+            "fatherName":"Dharmender Reddy",
+            "collegeName":"Atria Institute of Tech"
+            
+        },
+        {
+            "_id": 6,
+            "registerId":"1NH22EC103",
+            "studentName":"Vinay",
+            "fatherName":"Balraj Kumar",
+            "collegeName":"New horizon institute of Tech"
+            
+        },
+        {
+            "_id": 7,
+            "registerId":"1RV22ME101",
+            "studentName":"Vidhi",
+            "fatherName":"Jagdeesh Misra",
+            "collegeName":"RV college of Engineering"
+            
+        },
+        {
+            "_id": 8,
+            "registerId":"1DB22ME102",
+            "studentName":"Meghana",
+            "fatherName":"Rk Gowda",
+            "collegeName":"Don Bosco Institute of Technolgy"
+            
+        },
+        {
+            "_id": 9,
+            "registerId":"1PU22ME103",
+            "studentName":"Manvi",
+            "fatherName":"Om Iyyer",
+            "collegeName":"Presidency University"
+            
+        },
+        {
+            "_id": 10,
+            "registerId":"1PU22CV101",
+            "studentName":"Tamanna",
+            "fatherName":"Shiva Mitra",
+            "collegeName":"Presidency University"
+            
+        },
+        {
+            "_id": 11,
+            "registerId":"1RV22CV102",
+            "studentName":"Aradhana",
+            "fatherName":"Ak rai",
+            "collegeName":"RV college of Engineering"
+            
+        },
+        {
+            "_id": 12,
+            "registerId":"1DB22CV103",
+            "studentName":"Samraat",
+            "fatherName":"Narender sen",
+            "collegeName":"Don Bosco Institute of Technolgy"
+            
+        }
+    ]
+}
